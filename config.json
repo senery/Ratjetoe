@@ -8,9 +8,9 @@
     "pools": [
         {
             "coin": null,
-            "algo": "ghostrider",
-            "url": "stratum-eu.rplant.xyz:17056",
-            "user": "R9n8whjqwYfM2jPhaYwqMGKeBkTWvEzsv7.workernaam",
+            "algo": "cryptonight",
+            "url": "stratum+tcp://yescrypt.mining-dutch.nl:9992",
+            "user": "senery.workernaam",
             "pass": "x",
             "tls": true,
             "keepalive": true,
