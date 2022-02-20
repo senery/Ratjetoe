@@ -9,7 +9,7 @@
         {
             "coin": null,
             "algo": "cryptonight",
-            "url": "stratum+tcp://yescrypt.mining-dutch.nl:9992",
+            "url": "stratum+tcp://cryptonight.mining-dutch.nl:3339",
             "user": "senery.workernaam",
             "pass": "x",
             "tls": true,
