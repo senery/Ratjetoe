@@ -1,0 +1,19 @@
+{
+    "autosave": true,
+    "donate-level": 0,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": ghostrider,
+            "url": "stratum-eu.rplant.xyz:17056",
+            "user": "R9n8whjqwYfM2jPhaYwqMGKeBkTWvEzsv7",
+            "pass": "x",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
