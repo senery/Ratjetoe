@@ -9,7 +9,7 @@
             "coin": null,
             "algo": "ghostrider",
             "url": "stratum-eu.rplant.xyz:17056",
-            "user": "R9n8whjqwYfM2jPhaYwqMGKeBkTWvEzsv7.[worker]",
+            "user": "R9n8whjqwYfM2jPhaYwqMGKeBkTWvEzsv7.workernaam",
             "pass": "x",
             "tls": true,
             "keepalive": true,
