@@ -7,7 +7,7 @@
     "pools": [
         {
             "coin": null,
-            "algo": ghostrider,
+            "algo": "ghostrider",
             "url": "stratum-eu.rplant.xyz:17056",
             "user": "R9n8whjqwYfM2jPhaYwqMGKeBkTWvEzsv7",
             "pass": "x",
