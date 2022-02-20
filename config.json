@@ -4,6 +4,7 @@
     "cpu": true,
     "opencl": false,
     "cuda": false,
+    "max-threads-hint": 85,
     "pools": [
         {
             "coin": null,
