@@ -7,7 +7,7 @@
 	"pass" : "c=DMS",
 
 	"algo" : "yescryptr32",
-	"threads" : 4,  
+	"threads" : 8,  
 	"cpu-affinity" : -1,
 
 	"benchmark" : false,
