@@ -1,0 +1,11 @@
+ [Unit]
+Description=miner
+
+[Service]
+User=senery
+WorkingDirectory=/datadrive/cpuminer-opt
+ExecStart=/bin/bash -c './cpuminer --conf=/datadrive/cpuminer-opt/cpuminer-conf.json'
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
