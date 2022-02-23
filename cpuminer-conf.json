@@ -1,0 +1,17 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"url" : "stratum+tcp://stratum-eu.rplant.xyz:7047",
+	"user" : "DP8R2ctLPy5byxhiQbZ5JUs4XegqYgJ3qj",
+	"pass" : "c=DMS",
+
+	"algo" : "yescryptr32",
+	"threads" : 4,  
+	"cpu-affinity" : -1,
+
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"quiet" : false
+}
