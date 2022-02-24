@@ -4,12 +4,10 @@
 	"_comment3"  : "LnPntxJzXoNMZkxLnS6TajaNDX61J5DaLUfssnkwzTNKJgJhmGR6",
 
 	"url" : "stratum+tcp://stratum-eu.rplant.xyz:7047",
-	"user" : "DLg2gRqf61Jn8wvJrHvqXLERTGzcMpFC4E",
-	"pass" : "webpassword=x; c=DMS",
+	"user" : "DLg2gRqf61Jn8wvJrHvqXLERTGzcMpFC4E.workerid",
+	"pass" : "webpassword=x;c=DMS",
 
 	"algo" : "yescryptr32",
-	"threads" : 8,  
-	"cpu-affinity" : -1,
 
 	"benchmark" : false,
 	"debug" : false,
