@@ -3,7 +3,7 @@
 	"_comment2" : "may be used in this JSON configuration file",
 
 	"url" : "stratum+tcp://stratum-eu.rplant.xyz:7047",
-	"user" : "DP8R2ctLPy5byxhiQbZ5JUs4XegqYgJ3qj",
+	"user" : "DLg2gRqf61Jn8wvJrHvqXLERTGzcMpFC4E",
 	"pass" : "c=DMS",
 
 	"algo" : "yescryptr32",
